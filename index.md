@@ -9,7 +9,7 @@ layout: default
     <dd><i>To record digitally and share</i></dd>
 </dl>
 
-On July 7, 2017, after a year of administrative measures against the century-old undergraduate dorm [Senior House](https://goo.gl/CV2aPV), [Chancellor Cynthia Barnhart](https://goo.gl/ZRo6Dn) announced that the dorm would no longer house undergraduates; instead it would become a graduate residence now known as "70 Amherst St." As part of this reset, work began to paint over the murals in individual rooms of the dorm.
+On July 7, 2017, a year of administrative measures against the century-old undergraduate dorm [Senior House](https://goo.gl/CV2aPV) culminated in an announcement bu [Chancellor Cynthia Barnhart](https://goo.gl/ZRo6Dn) that the dorm would no longer house undergraduates; instead it would become a graduate residence now known as "70 Amherst St." As part of this reset, work began to paint over the murals in individual rooms of the dorm.
 
 The walls, hallways, suites and rooms of Senior House are adorned with over 400 murals; these murals have considerable artistic, historical and cultural value, recognized by MIT with a Wiesner Student Art Award. They are a rare gift that has been decades in the making, to be inherited by the graduate students moving in. Senior House residents initiated a [documentation effort](https://goo.gl/4VbXzm) to capture every mural digitally, supported by MIT.
 
