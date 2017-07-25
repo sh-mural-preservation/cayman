@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# About
+
 <dl>
   <dt>To Preserve</dt>
     <dd><i>To leave untouched for future generations</i></dd>
