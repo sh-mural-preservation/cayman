@@ -4,6 +4,8 @@ layout: default
 
 ## Petition Text
 
+Sign the petition at [goo.gl/uYoJ9U](goo.gl/uYoJ9U "Petition to Keep SH Murals for Now")!
+
 ### Keep Senior Haus murals until new residents have moved in.
 
 To Whom It May Concern:
