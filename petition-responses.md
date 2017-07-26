@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## Petition Text
+# Keep Senior Haus murals until new residents have moved in.
 
 Sign the petition at [goo.gl/uYoJ9U](goo.gl/uYoJ9U "Petition to Keep SH Murals for Now")!
 
-### Keep Senior Haus murals until new residents have moved in.
+## Petition Text
 
 To Whom It May Concern:
 
@@ -17,7 +17,7 @@ We believe that there is significant artistic, cultural, and historical value in
 ## Responses
 
 <div class="h_iframe">
-  <iframe src="https://docs.google.com/spreadsheets/d/1adIFo9MERiQnVYAxweAY7JCWhnpR2XRNuksAsVlIC78/pubhtml?gid=720184588&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+  <iframe src="https://docs.google.com/spreadsheets/d/1adIFo9MERiQnVYAxweAY7JCWhnpR2XRNuksAsVlIC78/gviz/tq?tq=select B,C,G where C='Faculty member'"></iframe>
 </div>
 
 [back](./)
